@@ -1,22 +1,23 @@
 
-div{
+.default{
     text-align: right;
-    align: right;
-    width: 700px;
+    width: 710px;
     height: auto;
 }
-div1{
+.italic{
     font-style: italic;
 }
 h1{
     font-family: 'Bad Script', cursive;
     font-weight: bold;
     text-decoration: underline;
-    text-indent: 30px;
-}
-pre {
+    text-indent: 25px;
+    }
+.bad {
     font-family: 'Bad Script', cursive;
-    width: 700px;
+    width: 710px;
+    text-indent: 25px;
+    white-space: pre;
 }
 p{
 line-height: 3;
