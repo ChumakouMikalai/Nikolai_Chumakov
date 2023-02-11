@@ -1,0 +1,28 @@
+.wrap{
+    background-color: #e3e3e3;
+    }
+.str{
+    text-align: left;
+    font-weight: bold;
+}
+.block{
+    background-color: #bcbcbc;
+    width: 15em;
+    float: left;
+    }
+.article{
+    background-color: #7a7a7a;
+    margin-bottom: .2em;
+    margin-left: 15em;
+    text-align: left;
+        }
+.footer{
+    background-color: darkslategray;
+    clear: both;
+}
+.clear{
+    clear: both;
+}
+.img{
+    float: right;
+}

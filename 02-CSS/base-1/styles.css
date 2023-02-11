@@ -1,0 +1,76 @@
+.seven{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -428px -991px;
+    width: 143px; height: 198px;
+}
+.queen{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: 0px -1784px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 71px;
+}
+.nine{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -285px -1388px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 142px;
+}
+.ace{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -143px -2180px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 213px;
+}
+.joker{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -285px -2379px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 284px;
+}
+.seven1{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -428px -991px;
+    width: 143px; height: 198px;
+}
+.queen1{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: 0px -1784px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 143px;
+}
+.nine1{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -285px -1388px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 286px;
+}
+.ace1{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -143px -2180px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 429px;
+}
+.joker1{
+    background-image: url("cards.7e0a18f0.png");
+    background-repeat: no-repeat;
+    background-position: -285px -2379px;
+    width: 143px; height: 198px;
+    margin-top: -198px;
+    margin-left: 572px;
+}

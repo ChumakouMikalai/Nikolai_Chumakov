@@ -1,0 +1,29 @@
+.script{
+    width: 350px;
+    height: 350px;
+    background-color: lightcyan;
+    }
+.strong{
+    font-weight: bolder;
+}
+.rome{
+    list-style: upper-roman;
+    }
+.lower{
+    list-style: lower-roman;
+    font-weight: normal;
+}
+.white{
+    width: 50px;
+    height: 78px;
+    float: right;
+    }
+.tank{
+    width: 400px;
+    height: 78px;
+    display: inline-block;
+    overflow: auto;
+    background-color: black;
+    color: green;
+
+    }
