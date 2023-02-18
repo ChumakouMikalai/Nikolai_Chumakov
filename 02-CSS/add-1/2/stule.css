@@ -1,0 +1,14 @@
+.add1{
+    width: 80%;
+    padding: 2em;
+    background-color: #ccc;
+    background-image: url("r-b.png"),url("l-b.png"),url("l-t.png"),url("r-t.png"),url("l.png"),url("r.png"),url("t.png"),url("b.png");
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,repeat-y,repeat-y,repeat-x,repeat-x;
+    background-position: bottom right,bottom left,top left,top right,left,right,top,bottom;
+    float: bottom;
+}
+.in{
+    margin: 50px;
+    background-color: #ccc;
+
+}
